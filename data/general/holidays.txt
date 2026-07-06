@@ -1,0 +1,137 @@
+1. Overview
+
+Senurukz Solutions maintains a hybrid global holiday calendar to support its distributed workforce across North America, Europe, Asia-Pacific, and the Middle East.
+
+The company observes a combination of:
+
+National public holidays (by office location)
+Global company-wide shutdown days
+Optional cultural observance days
+Flexible floating holidays for employees
+
+All primary offices remain closed on officially declared company holidays unless otherwise specified by executive notice.
+Regional HR teams may publish additional localized holidays based on jurisdictional requirements and labor laws.
+
+
+2. Global Company-Wide Holidays (All Offices Closed)
+
+These holidays are observed across all Senurukz Solutions offices worldwide.
+
+Fixed Global Holidays
+New Year’s Day: 1 January 2026
+Senurukz Annual Planning Shutdown: 2 January 2026 (internal planning + system maintenance day)
+Company Founders’ Day: 19 March 2026 (company-wide recognition event, offices closed)
+Global Mid-Year Break: 1–3 July 2026 (3-day corporate shutdown for system audits and rest cycle)
+Year-End Closure Period: 24–26 December 2026
+
+
+3. North America (US & Canada Offices)
+
+United States & Canada Observed Holidays
+New Year’s Day: 1 January
+Martin Luther King Jr. Day: 19 January
+Presidents’ Day: 16 February
+Good Friday (optional observance): 3 April
+Memorial Day: 25 May
+Independence Day: 4 July
+Labor Day: 7 September
+Thanksgiving Day: 26 November
+Day After Thanksgiving: 27 November (company discretionary closure)
+Christmas Day: 25 December
+Additional Regional Notes
+Canadian offices also observe Canada Day (1 July) if it does not overlap with company shutdown periods.
+Optional floating holiday provided: 1 day per employee per quarter
+
+
+4. Europe Offices (UK, Germany, France, Netherlands)
+
+Standard European Observances
+New Year’s Day: 1 January
+Good Friday: 3 April
+Easter Monday: 6 April
+Early May Bank Holiday (UK): 4 May
+Spring Bank Holiday (UK): 25 May
+Summer Bank Holiday (UK): 31 August
+German Unity Day (Germany): 3 October
+All Saints’ Day (select EU regions): 1 November
+Christmas Day: 25 December
+Boxing Day / St. Stephen’s Day: 26 December
+EU Notes
+France and Netherlands offices observe country-specific statutory holidays as per HR compliance matrix.
+Flexible holiday substitution allowed for cross-country project teams.
+
+
+5. APAC Offices (India, Singapore, Australia, Japan)
+
+Regional Public Holidays
+New Year’s Day: 1 January
+Lunar New Year (Singapore, regional): 17–19 February
+Holi (India): 4 March
+Good Friday: 3 April
+Labour Day: 1 May
+Independence Day (India): 15 August
+Deepavali / Diwali: 8 November
+Christmas Day: 25 December
+Additional Country Observances
+Australia Day: 26 January
+ANZAC Day: 25 April
+Japan Golden Week (partial closure): 29 April – 5 May
+
+
+6. Middle East (UAE Office)
+
+New Year’s Day: 1 January
+Eid al-Fitr: Dates subject to official moon sighting announcement
+Arafat Day: As per Islamic calendar
+Eid al-Adha: As per Islamic calendar
+Islamic New Year: As per official announcement
+UAE National Day: 2–3 December
+
+
+7. Company-Wide Floating Holidays Policy
+
+Senurukz Solutions provides floating holidays in addition to public holidays:
+
+Annual entitlement: 4 floating days per employee
+Can be used for:
+Cultural or religious observances
+Personal milestones
+Regional holidays not covered in standard calendar
+
+Approval is managed through HR self-service portal.
+
+
+8. Special Company Events (Non-Working Days)
+
+The following are treated as internal non-working corporate events:
+
+Senurukz Innovation Week: 10–14 February 2026 (partial operations only)
+AI Systems Maintenance Window: 15–16 June 2026 (global system freeze window)
+Annual Strategy Retreat Closure: 18–20 September 2026 (executive + planning shutdown)
+Year-End Performance Review Freeze: 27–31 December 2026 (limited operations)
+
+
+9. Regional Office Closure Policy
+
+Offices may close early on the day before major holidays (half-day closure).
+Customer support maintains reduced staffing only for critical enterprise clients during global shutdown periods.
+Engineering teams may observe on-call rotations during system maintenance windows.
+
+
+10. HR Compliance Notes
+
+All holiday schedules comply with local labor laws and statutory requirements.
+In case of conflict between company-wide and local holidays, local statutory law takes precedence.
+HR reserves the right to update the calendar based on regulatory changes or business continuity needs.
+
+
+11. Summary
+
+The Senurukz Solutions 2026 holiday calendar is designed to balance:
+
+Global operational consistency
+Regional legal compliance
+Employee well-being and cultural inclusivity
+System maintenance and engineering downtime
+
+The company maintains a structured but flexible holiday framework to support its distributed global workforce while ensuring enterprise service continuity.

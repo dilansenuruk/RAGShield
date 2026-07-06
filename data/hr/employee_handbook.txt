@@ -1,0 +1,206 @@
+1. Introduction
+
+This Employee Handbook outlines the core HR policies, workplace expectations, and employment guidelines for all employees of Senurukz Solutions.
+
+It applies to:
+
+Full-time employees
+Contract employees (where applicable by agreement)
+Remote and hybrid workers
+Global offices unless overridden by local labor law
+
+The purpose of this handbook is to ensure consistency, fairness, and operational clarity across all regions where Senurukz Solutions operates.
+
+
+2. Employment Structure
+
+Senurukz Solutions follows a structured employment model consisting of:
+
+Full-time permanent employees
+Fixed-term contractors
+Internship and graduate programs
+Remote-first distributed engineering teams
+
+All employment relationships are governed by formal contracts and applicable local labor regulations.
+
+
+3. Working Hours & Flexibility
+
+Standard Working Hours
+Core hours: 09:30 to 17:30 (local office time)
+Workweek: Monday to Friday
+Total weekly hours: ~40 hours (standard guideline)
+Flexible Working Policy
+
+Senurukz Solutions supports a flexible work structure:
+
+Flexible start window: 08:00 to 10:30
+Flexible end time based on completion of core hours
+Employees are expected to maintain minimum daily availability overlap of 4 hours with their team
+Remote Work Policy
+Eligible employees may work remotely up to 3 days per week
+Engineering, AI, and product teams may adopt fully remote arrangements with manager approval
+Certain roles (e.g., infrastructure, security operations) may require higher on-site presence
+4. Leave Policy
+
+Senurukz Solutions provides a comprehensive leave structure designed to support employee well-being.
+
+Annual Vacation Leave
+Employees receive 22 vacation days per year
+Leave is accrued monthly at approximately 1.83 days per month
+Vacation can be used for personal travel, rest, or personal obligations
+Sick Leave
+Employees are entitled to 10 paid sick leave days per year
+Medical documentation may be required for absences exceeding 2 consecutive days
+Carry Forward Policy
+Up to 6 unused vacation days may be carried into the next calendar year
+Carry-forward leave must be used within the first 6 months of the new year
+
+
+5. Additional Leave Types
+
+Senurukz Solutions also provides specialized leave categories:
+
+Parental Leave
+Primary caregiver: up to 16 weeks paid leave
+Secondary caregiver: up to 6 weeks paid leave
+Bereavement Leave
+Up to 5 paid days for immediate family members
+Marriage Leave
+5 paid days for employee marriage
+Study / Training Leave
+Up to 7 paid days annually for professional certifications or academic programs
+
+
+6. Probation Policy
+
+All new employees are subject to a probationary period:
+
+Standard probation duration: 3 months
+Extension: up to 1 additional month if performance evaluation is inconclusive
+
+During probation:
+
+Employees receive full salary and benefits
+Performance is evaluated based on role-specific KPIs
+Confirmation requires approval from direct manager and HR
+
+
+7. Performance Evaluation
+
+Senurukz Solutions conducts structured performance reviews:
+
+Quarterly performance check-ins
+Annual performance appraisal cycle
+Continuous feedback model supported by team leads
+
+Performance is evaluated based on:
+
+Technical or functional contribution
+Collaboration and teamwork
+Delivery consistency
+Innovation and problem-solving ability
+
+
+8. Code of Conduct
+
+Employees are expected to maintain professional standards including:
+
+Ethical behavior in all business interactions
+Respectful communication across teams and cultures
+Protection of company and client data
+Compliance with security and confidentiality requirements
+
+Violations of conduct policies may result in disciplinary action, including termination.
+
+
+9. Hybrid Work Expectations
+
+Employees working remotely must ensure:
+
+Stable internet connectivity during working hours
+Availability during core collaboration hours
+Participation in scheduled meetings
+Secure handling of company systems and data
+
+All work must comply with Senurukz cybersecurity and data protection policies.
+
+
+10. Compensation Principles (High-Level)
+
+While detailed salary structures are maintained separately, Senurukz Solutions follows:
+
+Market-aligned compensation benchmarks
+Performance-based increments
+Annual bonus eligibility for eligible employees
+Equity or long-term incentive programs for senior roles
+
+
+11. Learning & Development
+
+Senurukz Solutions actively supports employee growth:
+
+Annual learning budget per employee
+Access to technical certification programs
+Internal knowledge-sharing sessions
+Leadership development tracks for senior staff
+
+Employees are encouraged to dedicate time to continuous learning during working hours.
+
+
+12. Health, Safety & Well-being
+
+The company promotes employee well-being through:
+
+Mental health support resources
+Flexible scheduling during high workload periods
+Ergonomic work environment guidelines
+Global employee assistance program (EAP)
+
+
+13. Information Security Policy (Summary)
+
+Employees must:
+
+Use approved company systems only
+Protect login credentials and access keys
+Avoid unauthorized data sharing
+Follow least-privilege access principles
+Report security incidents immediately
+
+Security is treated as a core engineering requirement, not an optional guideline.
+
+
+14. Disciplinary Policy
+
+Senurukz Solutions maintains a structured disciplinary framework:
+
+Verbal warning
+Written warning
+Final warning
+Termination (if required)
+
+Serious violations (e.g., data breaches, fraud, misconduct) may bypass progressive steps.
+
+
+15. Policy Updates
+
+This handbook is reviewed:
+
+Annually, or
+When required due to legal, operational, or organizational changes
+
+Employees will be notified of all significant updates through official HR communication channels.
+
+
+16. Summary
+
+The Senurukz Solutions Employee Handbook defines a flexible, performance-driven, and globally aligned workplace structure designed to support innovation, productivity, and employee well-being.
+
+The company emphasizes:
+
+Trust-based remote work
+Balanced work-life structure
+Strong performance culture
+Continuous learning
+High standards of professionalism and security

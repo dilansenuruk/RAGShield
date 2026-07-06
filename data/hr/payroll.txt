@@ -1,0 +1,114 @@
+Employee: Aisha Raman
+Title: Senior Machine Learning Engineer
+Department: AI Systems
+Location: United States (Remote)
+Annual Salary: 118,000 USD
+Monthly Gross Pay: 9,833 USD
+Bonus Eligibility: Yes (up to 12% annual)
+Equity Grant: 0.05% vested over 4 years
+
+
+Employee: Daniel Okafor
+Title: Backend Systems Engineer
+Department: Cloud Infrastructure
+Location: Canada
+Annual Salary: 96,000 USD
+Monthly Gross Pay: 8,000 USD
+Bonus Eligibility: Yes (up to 10% annual)
+Equity Grant: 0.03% vested over 4 years
+
+
+Employee: Mei Lin
+Title: Data Engineer
+Department: Data Platform
+Location: Singapore
+Annual Salary: 88,500 USD
+Monthly Gross Pay: 7,375 USD
+Bonus Eligibility: Yes (up to 8% annual)
+Equity Grant: 0.02% vested over 4 years
+
+
+Employee: Lucas Pereira
+Title: DevOps Engineer
+Department: Platform Engineering
+Location: Germany
+Annual Salary: 102,000 USD
+Monthly Gross Pay: 8,500 USD
+Bonus Eligibility: Yes (up to 10% annual)
+Equity Grant: 0.04% vested over 4 years
+
+
+Employee: Sara Al-Mansouri
+Title: Product Manager
+Department: Enterprise Products
+Location: UAE
+Annual Salary: 110,000 USD
+Monthly Gross Pay: 9,166 USD
+Bonus Eligibility: Yes (up to 15% annual)
+Equity Grant: 0.06% vested over 4 years
+
+
+Employee: John Matthews
+Title: Senior Software Engineer
+Department: Application Engineering
+Location: United Kingdom
+Annual Salary: 104,000 USD
+Monthly Gross Pay: 8,666 USD
+Bonus Eligibility: Yes (up to 10% annual)
+Equity Grant: 0.03% vested over 4 years
+
+
+Employee: Anika Desai
+Title: AI Research Scientist
+Department: Advanced Research
+Location: India
+Annual Salary: 79,000 USD
+Monthly Gross Pay: 6,583 USD
+Bonus Eligibility: Yes (up to 12% annual)
+Equity Grant: 0.02% vested over 4 years
+
+
+Employee: Thomas Weber
+Title: Security Engineer
+Department: Cybersecurity
+Location: Germany
+Annual Salary: 112,000 USD
+Monthly Gross Pay: 9,333 USD
+Bonus Eligibility: Yes (up to 10% annual)
+Equity Grant: 0.04% vested over 4 years
+
+
+Employee: Olivia Brown
+Title: UX Designer
+Department: Product Design
+Location: United States
+Annual Salary: 85,000 USD
+Monthly Gross Pay: 7,083 USD
+Bonus Eligibility: Yes (up to 8% annual)
+Equity Grant: 0.02% vested over 4 years
+
+
+Employee: Rakesh Iyer
+Title: Cloud Architect
+Department: Infrastructure
+Location: India
+Annual Salary: 125,000 USD
+Monthly Gross Pay: 10,416 USD
+Bonus Eligibility: Yes (up to 15% annual)
+Equity Grant: 0.07% vested over 4 years
+
+
+Payroll Policy Summary
+
+Payroll cycle: Monthly (last business day)
+Currency: USD (converted for global employees)
+Salary structure: Fixed + variable bonus + equity (role dependent)
+Bonus payout: Quarterly performance-based assessment
+Deductions: Tax and statutory deductions applied per region
+
+Notes from Finance
+
+Total payroll cost (sample cohort): ~1.02M USD annually
+Engineering staff represent ~62% of payroll expense
+AI & Infrastructure roles have highest equity allocation
+Average salary increase forecast for FY2027: 6.5–8.2%
