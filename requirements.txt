@@ -1,0 +1,8 @@
+# loads your .env file (Groq key) into environment variables
+python-dotenv
+
+# the web framework for the backend
+fastapi
+
+# the server that actually runs the FastAPI app
+uvicorn

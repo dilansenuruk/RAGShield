@@ -1,2 +1,4 @@
 # Conda env
 ragsenv/
+
+.env
