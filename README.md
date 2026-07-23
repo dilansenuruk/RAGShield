@@ -19,3 +19,5 @@ To export the environment to a yml file
 Recreating the environment from yml file
 >> conda env create -f environment.yml
 
+Run from the project root to execute the data ingestion pipeline
+>> python -m backend.ingest

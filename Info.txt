@@ -1,0 +1,9 @@
+In frontend,
+# main.jsx --> The entry point. 
+        This is the first JavaScript file that runs when the React app starts.
+        Its job is to: Load React, Load your CSS, Render your application into the HTML page.
+# App.jsx --> Main component.
+        Everything the users see usually starts here.
+        When we build larger apps, App.jsx imports other components: Navbar, Sidebar, ChatWindow, Login, Footer.
+# App.css --> This file contains styles specifically for App.jsx.
+# index.css --> This contains global styles for the entire application.

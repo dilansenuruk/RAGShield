@@ -6,3 +6,15 @@ fastapi
 
 # the server that actually runs the FastAPI app
 uvicorn
+
+# search files -> ex: data/**/*.txt
+glob
+
+# reading environment variables, creating file paths, checking directories
+os
+
+# creates unique IDs
+uuid
+
+# main vector database
+chromadb
