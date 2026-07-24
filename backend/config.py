@@ -12,7 +12,12 @@ GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b")
 
 # ------- Paths -------
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.getenv("DATA_DIR", os.path.join(BASE_DIR, "data"))
 CHROMA_DIR = os.getenv("CHROMA_DIR", os.path.join(BASE_DIR, "chroma_db"))
+COLLECTION_NAME = "company_docs"
 
 # ------- Embeddings -------
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2")  # local, CPU-friendly
+
+# ------- RBAC -------
+DEPARTMENTS = ["finance", "hr", "general"]

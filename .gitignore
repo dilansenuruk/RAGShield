@@ -1,4 +1,12 @@
-# Conda env
+# conda env
 ragsenv/
 
+# environment variables
 .env
+
+# cache
+__pycache__/
+*.pyc
+
+# database
+chroma_db/

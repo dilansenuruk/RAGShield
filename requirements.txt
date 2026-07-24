@@ -7,14 +7,17 @@ fastapi
 # the server that actually runs the FastAPI app
 uvicorn
 
-# search files -> ex: data/**/*.txt
-glob
-
-# reading environment variables, creating file paths, checking directories
-os
-
 # creates unique IDs
 uuid
 
 # main vector database
 chromadb
+
+# library splits long pieces of text into smaller, manageable chunks
+langchain-text-splitters
+
+# this library used to read, write, split, merge, crop, and transform PDF files
+pypdf
+
+# used to convert sentences, paragraphs, or entire documents into dense vector embeddings
+sentence-transformers
